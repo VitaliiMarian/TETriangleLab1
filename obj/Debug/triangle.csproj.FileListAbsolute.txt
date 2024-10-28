@@ -1,0 +1,7 @@
+C:\Users\lllll\OneDrive\Документы\ООП\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+C:\Users\lllll\OneDrive\Документы\ООП\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\lllll\OneDrive\Документы\ООП\triangle\bin\Debug\triangle.exe.config
+C:\Users\lllll\OneDrive\Документы\ООП\triangle\bin\Debug\triangle.exe
+C:\Users\lllll\OneDrive\Документы\ООП\triangle\bin\Debug\triangle.pdb
+C:\Users\lllll\OneDrive\Документы\ООП\triangle\obj\Debug\triangle.exe
+C:\Users\lllll\OneDrive\Документы\ООП\triangle\obj\Debug\triangle.pdb
